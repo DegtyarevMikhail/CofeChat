@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "166193263296",
+    "firebase_url": "https://simlejavachat-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "simlejavachat",
+    "storage_bucket": "simlejavachat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166193263296:android:f5a2c0c83797ae69893325",
+        "android_client_info": {
+          "package_name": "com.example.cofechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166193263296-78pb1fcroqdp6vgti9kl4dmkdburs7p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cofechat",
+            "certificate_hash": "da9e9c7f91eec2c5b4eeeec36871458c31e35455"
+          }
+        },
+        {
+          "client_id": "166193263296-tr6cuctrcest10tjcr64d5r7sss6091j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACjvWEWLBKhovT8IMCV_el-U9J2uVQVe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166193263296-tr6cuctrcest10tjcr64d5r7sss6091j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
